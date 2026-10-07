@@ -1,0 +1,1 @@
+{"deny_regex": ["Acme", "ACME-\\d+", "@acme\\.com"]}
